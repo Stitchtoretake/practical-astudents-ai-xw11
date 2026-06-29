@@ -1,4 +1,4 @@
-# 
+# Official Practical AI Projects for Students presets. Featuring generative-AI and AI-ethics — optimized for maximum performance.
 
 
 
